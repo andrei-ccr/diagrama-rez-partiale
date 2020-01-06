@@ -8,3 +8,8 @@ Converts data from CSV files provided by Biroul Electoral Central (https://preze
 2. Copy the CSV file in the same location as the script
 3. Rename the CSV to *rez.csv*
 4. Run the script
+
+
+#### To Do
+- [ ] Implement options via program arguments
+- [ ] Add support for 2016 elections data, 2019s 2nd prezidential rounds data and 2019s europarliament elections data
